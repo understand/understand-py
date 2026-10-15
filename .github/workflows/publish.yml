@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/understand-python
+      url: https://pypi.org/p/understand-py
     permissions:
       id-token: write
 

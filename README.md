@@ -11,13 +11,13 @@ names with the Laravel package, that is config parity only.
 Install from PyPI:
 
 ```bash
-python3 -m pip install understand-python
+python3 -m pip install understand-py
 ```
 
 Or add it to `requirements.txt`:
 
 ```text
-understand-python
+understand-py
 ```
 
 ## Configuration
